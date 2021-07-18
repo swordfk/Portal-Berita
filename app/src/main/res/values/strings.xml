@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">TopNews</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">MyNews</string>
+    <string name="nav_header_subtitle">#StayAtHome</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="top_news">Top News</string>
+    <string-array name="spinner_array">
+        <item>Pilih Negara</item>
+        <item>Indonesia </item>
+        <item>United Kingdom</item>
+        <item>Jepang</item>
+        <item>Amerika Serikat</item>
+        <item>Singapura</item>
+
+    </string-array>
+
+</resources>

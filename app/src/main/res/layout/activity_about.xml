@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Activity.AboutActivity"
+    android:background="#C139B9C8"
+    android:orientation="vertical"
+    android:gravity="center">
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:layout_width="wrap_content"
+        android:layout_height="150dp"
+        android:elevation="2dp"
+        android:src="@drawable/ijabb"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Fatkhul Khijab\nkhijabfatkhul@gmail.com"
+        android:textColor="#FFFFFF"
+        android:layout_marginVertical="20dp"
+        android:textSize="15sp"
+        android:textAlignment="center"/>
+
+</LinearLayout>
